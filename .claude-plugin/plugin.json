@@ -9,6 +9,18 @@
   },
   "homepage": "https://github.com/sude-go/one-star-gold#readme",
   "repository": "https://github.com/sude-go/one-star-gold",
+  "documentationUrl": "https://github.com/sude-go/one-star-gold#readme",
+  "privacyPolicyUrl": "https://github.com/sude-go/one-star-gold/blob/main/PRIVACY.md",
+  "supportUrl": "https://github.com/sude-go/one-star-gold/issues",
   "license": "MIT",
-  "keywords": ["competitor analysis", "app reviews", "review mining", "product discovery", "feature prioritization", "indie hackers", "mobile apps", "spec"]
+  "keywords": [
+    "competitor analysis",
+    "app reviews",
+    "review mining",
+    "product discovery",
+    "feature prioritization",
+    "indie hackers",
+    "mobile apps",
+    "spec"
+  ]
 }
