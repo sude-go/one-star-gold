@@ -49,7 +49,16 @@ claude plugin marketplace add sude-go/one-star-gold
 claude plugin install one-star-gold@one-star-gold
 ```
 
-In the desktop app you can also use **+ → Plugins → Add plugin** after adding the marketplace.
+**Claude desktop app** — without typing commands:
+
+1. Open **Settings → Plugins**.
+2. Click **+ Add** and choose the option to add a marketplace from GitHub.
+3. Enter `sude-go/one-star-gold`.
+4. Open the **Yours** tab, select **One Star Gold** and install it.
+
+Searching the **Discover** tab won't find it yet: Discover lists Anthropic's directory, and One Star Gold is installed from its own marketplace.
+
+> `/plugin` commands work in Claude Code running on your computer (terminal, VS Code, or a desktop-app Code session on **This computer**). In cloud sessions and claude.ai chat they reply *"/plugin isn't available in this environment"* — use the desktop steps above or the `.plugin` file below instead.
 
 **Claude app (claude.ai / Cowork)** — download `one-star-gold.plugin` from the [latest release](https://github.com/sude-go/one-star-gold/releases/latest) and add it as described in Anthropic's guide to [plugins on claude.ai and in Cowork](https://claude.com/docs/plugins/overview).
 
