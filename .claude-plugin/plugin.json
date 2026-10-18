@@ -1,0 +1,11 @@
+{
+  "name": "one-star-gold",
+  "version": "0.3.1",
+  "description": "Turn competitors' app store complaints into evidence-backed feature proposals and specs for your own app. Finds competitors, mines their reviews, counts what users hate, and tells you what to build — and what not to chase.",
+  "author": {
+    "name": "Meryem Sude Gök"
+  },
+  "homepage": "https://meryemsudegok.com",
+  "license": "MIT",
+  "keywords": ["competitor analysis", "app reviews", "review mining", "product discovery", "feature prioritization", "indie hackers", "mobile apps", "spec"]
+}
