@@ -1,0 +1,35 @@
+name: Bug report
+description: Something in the analysis or the report went wrong
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Plugin version
+      placeholder: "0.3.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Where did you run it?
+      options:
+        - Claude Code (terminal)
+        - Claude desktop app
+        - claude.ai / Cowork
+        - VS Code
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: context
+    attributes:
+      label: App category, store and country
+      placeholder: "Focus timer · Google Play · US"
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+      description: A wrong count, a missed competitor, a failed collection step, a confusing section... Review ids from the CSV help.
+    validations:
+      required: true

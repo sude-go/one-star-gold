@@ -1,7 +1,8 @@
 {
   "name": "one-star-gold",
   "owner": {
-    "name": "Meryem Sude Gök"
+    "name": "Meryem Sude Gök",
+    "url": "https://github.com/sude-go"
   },
   "metadata": {
     "description": "One Star Gold: turn competitors' app store complaints into evidence-backed feature proposals and specs.",
@@ -10,6 +11,7 @@
   "plugins": [
     {
       "name": "one-star-gold",
+      "displayName": "One Star Gold",
       "source": "./",
       "description": "Finds your competitors, mines their app store reviews, counts what users hate, and tells you what to build — and what not to chase.",
       "version": "0.3.1"

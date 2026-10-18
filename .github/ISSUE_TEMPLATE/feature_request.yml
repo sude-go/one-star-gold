@@ -1,0 +1,14 @@
+name: Idea or feature request
+description: Suggest a new source, report section or improvement
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like One Star Gold to do?
