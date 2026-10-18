@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sude-go/one-star-gold/releases"><img src="https://img.shields.io/github/v/release/sude-go/one-star-gold?color=E8A317&label=release" alt="Latest release"></a>
+  <a href="https://github.com/sude-go/one-star-gold/releases"><img src="https://img.shields.io/github/v/release/sude-go/one-star-gold?display_name=release&color=E8A317&label=release" alt="Latest release"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1F1A10" alt="MIT license"></a>
   <img src="https://img.shields.io/badge/Claude-plugin-C98400" alt="Claude plugin">
   <img src="https://img.shields.io/badge/Google%20Play%20%2B%20App%20Store-reviews-6B5E45" alt="Google Play and App Store reviews">
@@ -80,7 +80,10 @@ Both skills can also be called by name: `/one-star-gold:mine-competitor-reviews`
   3. **Why it's ranked here**
   4. **Evidence** — reviews by id, plus what your app does today
   5. **Proposal** — the fix in parts; every part says what to build and *why*, marked Must / Should / Later
-  6. **Fit** with your app · 7. **Effort** (S = 1–2 days, M ≈ 1 week, L = 2+ weeks) · 8. **Store line** · 9. **Validate first**
+  6. **Fit** with your app
+  7. **Effort** — S = 1–2 days, M ≈ 1 week, L = 2+ weeks
+  8. **Store line** — one sentence for your listing or an ad
+  9. **Validate first** — the cheapest check before you build
 - **Don't chase** — popular requests you should ignore, and why.
 - **How to read this report** — every term in plain words.
 
