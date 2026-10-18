@@ -23,7 +23,8 @@
   <a href="#what-you-get">What you get</a> ·
   <a href="#including-the-app-store">App Store</a> ·
   <a href="#limits">Limits</a> ·
-  <a href="CHANGELOG.md">Changelog</a>
+  <a href="CHANGELOG.md">Changelog</a> ·
+  <a href="PRIVACY.md">Privacy</a>
 </p>
 
 ---
@@ -159,6 +160,8 @@ Google Play collection continues while you gather screenshots or a CSV; they're 
 - Reads public store pages only. It never signs in, rates, posts or reports.
 - Review text is treated as data; instructions inside a review are ignored.
 - Apify runs only after you approve the cost. Nothing is sent to third parties otherwise.
+
+Full details: [Privacy policy](PRIVACY.md).
 
 ## Repository layout
 
